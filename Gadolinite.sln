@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gadolinite.Exercises", "Gadolinite.Exercises\Gadolinite.Exercises.csproj", "{FC852947-27A4-4DB4-BD6E-39E65FBF9B1C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gadolinite.Tests", "Gadolinite.Tests\Gadolinite.Tests.csproj", "{6BECEFD5-074D-4D07-BE27-F618D8ECFC81}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FC852947-27A4-4DB4-BD6E-39E65FBF9B1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC852947-27A4-4DB4-BD6E-39E65FBF9B1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC852947-27A4-4DB4-BD6E-39E65FBF9B1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC852947-27A4-4DB4-BD6E-39E65FBF9B1C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6BECEFD5-074D-4D07-BE27-F618D8ECFC81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BECEFD5-074D-4D07-BE27-F618D8ECFC81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BECEFD5-074D-4D07-BE27-F618D8ECFC81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BECEFD5-074D-4D07-BE27-F618D8ECFC81}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {216E4C26-CA34-4058-BB18-5CA59625020C}
+	EndGlobalSection
+EndGlobal
