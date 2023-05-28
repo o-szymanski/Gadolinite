@@ -25,8 +25,11 @@
     public static class LuciansLuciousLasagnaExercise
     {
         public static int ExpectedMinutesInOven() => (int)Minutes.Fourty;
+
         public static int PreparationTimeInMinutes(int numberOfLayers) => numberOfLayers * (int)Minutes.Two;
+
         public static int RemainingMinutesInOven(int minutesInOven) => ExpectedMinutesInOven() - minutesInOven;     
+
         public static int ElapsedTimeInMinutes(int numberOfLayers, int minutesInOven) => PreparationTimeInMinutes(numberOfLayers) + minutesInOven;
 
     }
