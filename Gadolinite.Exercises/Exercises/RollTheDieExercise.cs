@@ -1,8 +1,6 @@
 ﻿namespace Gadolinite.Exercises.Exercises
 {
-    /* 
-    Continuing the theme of the wizards and warriors game, it is time to add an all purpose die rolling method. This will be the traditional 18 sided die with numbers 1 to 18. Players also generate a spell strength.
-    */
+    // Continuing the theme of the wizards and warriors game, it is time to add an all purpose die rolling method. This will be the traditional 18 sided die with numbers 1 to 18. Players also generate a spell strength.
 
     public static class RollTheDieExercise
     {

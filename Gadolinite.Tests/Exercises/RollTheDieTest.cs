@@ -1,5 +1,4 @@
-﻿using System.Numerics;
-using Gadolinite.Exercises.Exercises;
+﻿using Gadolinite.Exercises.Exercises;
 
 namespace Gadolinite.Tests.Exercises
 {
